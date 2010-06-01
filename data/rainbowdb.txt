@@ -1,0 +1,8 @@
+hashcrack.hellospace.net$$http://hashcrack.hellospace.net/collisione/%md5%$$-\d$
+md5.hashcracking.com$$http://md5.hashcracking.com/search.php?md5=%md5%$$No result
+md5cracker.altervista.org$$http://www.md5cracker.altervista.org/search.php?hash=%md5%$$Hash Not Found
+md5decryption.com$$http://md5decryption.com/index.php$$Sorry, this MD5$$"hash"=>"%md5%","submit"=>"Decrypt+It%21"
+blacklight.gotdns.org$$http://blacklight.gotdns.org/cracker/search.cgi$$:\($$"hash"=>"%md5%","algorithm"=>"md5"
+opencrack.hashkiller.com$$http://opencrack.hashkiller.com/index.php$$:&lt;notfound&gt;$$"oc_check_md5"=>"%md5%","oc_submit"=>"Search+MD5"
+bigtrapeze.com$$http://ww.bigtrapeze.com/md5/index.php$$<ul>Sorry!$$"query"=>"%md5%","+Crack+"=>"Invia+richiesta"
+md5crack.com$$http://md5crack.com/crackmd5.php$$Sorry guess we$$"crackbtn"=>"Crack+that+hash+baby%21","term"=>"%md5%"

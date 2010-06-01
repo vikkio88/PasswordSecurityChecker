@@ -1,0 +1,50 @@
+PasswordSecurityChecherk README!
+
+PasswordSecurityChecherk is a script that allow you to search in a simple way, if your password 
+is know by a lot of hashcrackers based on different rainbow tables.
+After scanning this script'll do a report of the Insecurity of your password.
+ This script search your password in those md5cracker
+
+    md5.hashcracking.com
+	http://hashcrack.hellospace.net/collisione/
+	http://md5crack.com/crackmd5.php
+    md5decryption.com
+    blacklight.gotdns.org
+    www.bigtrapeze.com/md5/
+    opencrack.hashkiller.com
+	http://www.md5cracker.altervista.org/
+	
+USAGE:
+	ruby passwordcheck.rb --update            check update for your hashcracker DB
+	ruby passwordcheck.rb PASSWORD            check your password in a lot of rainbow tables
+
+INSTALL
+You can do a little bin in bash if you want:
+	
+	#!/bin/bash
+	cd /path/where/script/is
+	ruby passwordcheck.rb $1
+	
+Save this file and:
+$ chmod 755 file
+$ mv file /usr/local/bin
+
+and now you can call this script with:
+$ file arg
+
+
+for info's suggestions, and adding other hashcracker
+contact me:
+
+email:
+<vikkio88@yahoo.it>
+mywebsite:
+http://vikkio88.altervista.org
+
+Changelog:
+1       - Stable version released
+1b      - Some little script imperfection fixed
+
+
+
+...see you soon bye!
